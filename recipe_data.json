@@ -1,0 +1,308 @@
+
+{"data":[
+    {
+        "number":"1",
+        "name":"Pesto Pasta",
+        "ingredients": [
+            "Premade pasta",
+            "Broccoli",
+            "Onion",
+            "Spinach",
+            "Pesto"
+        ],
+        "extra_instructions":"Add pesto with splash of starchy pasta water"
+    }, 
+    {
+        "number":"2",
+        "name":"Buffalo Tacos",
+        "ingredients": [
+            "corn tortillas",
+            "cauliflower",
+            "buffalo sauce ",
+            "cheese",
+            "Pesto",
+            "salsa"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"3",
+        "name":"Teriyaki",
+        "ingredients": [
+            "Teriyaki sauce, add gochujang",
+            "broccoli",
+            "green onion",
+            "yellow onion",
+            "carrots",
+            "tofu",
+            "mushrooms",
+            "soy sauce",
+            "jasmine rice"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"4",
+        "name":"Greek Wraps",
+        "ingredients": [
+            "Cucumber",
+            "Red onion",
+            "Cherry Tomato",
+            "Feta",
+            "Hummus",
+            "Pepperoni",
+            "Olives",
+            "Tomato basil wraps",
+            "Olive oil"
+        ],
+        "extra_instructions":"Add deli turkey if desired"
+    },
+    {
+        "number":"5",
+        "name":"Buffalo chickpea wraps",
+        "ingredients": [
+            "Wraps",
+            "Chickpeas",
+            "Buffalo sauce",
+            "Romaine",
+            "red onion",
+            "cherry tomato",
+            "brown rice ",
+            "salsa"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"6",
+        "name":"Chickpea sweet potato burgers",
+        "ingredients": [
+            "Chickpea",
+            "Sweet potato",
+            "bbq sauce",
+            "bread crumbs",
+            "pepperjack cheese",
+            "buns"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"7",
+        "name":"Potato tacos",
+        "ingredients": [
+            "Black beans ",
+            "potato",
+            "onion",
+            "corn",
+            "avocado",
+            "salsa",
+            "cheese",
+            "lime",
+            "corn tortilla"
+        ],
+        "extra_instructions":"Roast diced potatoes at 450 for 30+ minutes"
+    },
+    {
+        "number":"8",
+        "name":"Pesto Pizza",
+        "ingredients": [
+            "pesto sauce",
+            "mozz",
+            "feta",
+            "sliced tomato",
+            "broccoli"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"9",
+        "name":"Burrito bowls",
+        "ingredients": [
+            "Brown rice",
+            "black beans",
+            "salsa",
+            "roasted bell peppers",
+            "corn",
+            "cilantro",
+            "avocado",
+            "red onion",
+            "monteray jack cheese",
+            "lettuce",
+            "lime",
+            "tortilla chips"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"10",
+        "name":"Summer pasta",
+        "ingredients": [
+            "Pasta",
+            "Zucchini",
+            "Cherry Tomato",
+            "Broccoli",
+            "Black Pepper",
+            "Butter",
+            "Lemon",
+            "Olive oil",
+            "Parmesan"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"11",
+        "name":"White pasta",
+        "ingredients": [
+            "Spaghetti",
+            "Roux",
+            "Lemon zest",
+            "broccoli",
+            "capers"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"12",
+        "name":"Chana masala",
+        "ingredients": [
+            "Chickpeas",
+            "Onion",
+            "Tomato",
+            "Butter",
+            "capers",
+            "Jasmine rice",
+            "green chilis",
+            "lemon juice",
+            "naan bread"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"13",
+        "name":"Zucchini pasta",
+        "ingredients": [
+            "spaghetti",
+            "zucchini",
+            "parmesan",
+            "pecorino",
+            "butter",
+            "basil"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"14",
+        "name":"Sushi",
+        "ingredients": [
+            "salmon",
+            "imitation crab",
+            "cucumber",
+            "sweet potato",
+            "green onion",
+            "Avocado"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"15",
+        "name":"BLT",
+        "ingredients": [
+            "Bacon",
+            "Tomato",
+            "lettuce",
+            "bread",
+            "mayo"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"16",
+        "name":"Spaghetti and meatballs",
+        "ingredients": [
+            "Spaghetti",
+            "tomato",
+            "beyond meat",
+            "egg",
+            "parmesan",
+            "onion",
+            "breadcrumbs"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"17",
+        "name":"Spaghetti and meatballs",
+        "ingredients": [
+            "Zatarains jambalaya mix",
+            "onion",
+            "celery",
+            "bell pepper",
+            "beans",
+            "andouille sausage"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"18",
+        "name":"Italian Sub",
+        "ingredients": [
+            "Bread",
+            "Ham",
+            "Pepperoni",
+            "Salami",
+            "lettuce",
+            "tomato",
+            "provolone",
+            "balsamic",
+            "oregano"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"19",
+        "name":"Baked Ziti",
+        "ingredients": [
+            "Pasta",
+            "onion",
+            "zucchini",
+            "fake meat",
+            "tomato",
+            "mozz",
+            "parmesan",
+            "ricotta"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"20",
+        "name":"Black bean burgers",
+        "ingredients": [
+            "buns",
+            "black beans",
+            "onion",
+            "green pepper",
+            "bread crumbs",
+            "cheese"
+        ],
+        "extra_instructions":""
+    },
+    {
+        "number":"21",
+        "name":"Black bean burgers",
+        "ingredients": [
+            "buns",
+            "hot dogs",
+            "tomato",
+            "pickle",
+            "relish",
+            "sport pepper",
+            "celery salt",
+            "mustard",
+            "kimchi"
+        ],
+        "extra_instructions":""
+    }
+] }
+
+
+
+
