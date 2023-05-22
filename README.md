@@ -7,4 +7,4 @@ TODOs:
 - Deploy to Render
 - Serialize instead of using print statements
 - Get unit tests to be independent of each other
-- Add to github
+- test auth commit
