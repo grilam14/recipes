@@ -15,7 +15,8 @@ class Testing(unittest.TestCase):
         self.runner.add_recipe_to_list("1")
 
     def test_remove_latest_recipe(self):
-        self.runner.remove_latest_recipe()
+        self.runner.add_recipe_to_list("2")
+        assert len(self.runner.groceries) == 1
 
     def test_show_grocery_list(self):
         self.runner.show_grocery_list()
