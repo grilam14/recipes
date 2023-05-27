@@ -62,7 +62,7 @@ class Runner:
 
         print("")
         for recipe in self.groceries:
-            print(f'{recipe.get("number")}: {recipe.get("name")}')
+            print(f'{recipe.get("name")}')
             for ingredient in recipe.get("ingredients"):
                 print(f'{ingredient}')
             print("")

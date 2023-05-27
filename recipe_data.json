@@ -168,7 +168,6 @@
             "Onion",
             "Tomato",
             "Butter",
-            "capers",
             "Jasmine rice",
             "green chilis",
             "lemon juice",
@@ -230,7 +229,7 @@
     },
     {
         "number":"17",
-        "name":"Spaghetti and meatballs",
+        "name":"Jambalaya",
         "ingredients": [
             "Zatarains jambalaya mix",
             "onion",
@@ -287,7 +286,7 @@
     },
     {
         "number":"21",
-        "name":"Black bean burgers",
+        "name":"Hot dogs",
         "ingredients": [
             "buns",
             "hot dogs",
