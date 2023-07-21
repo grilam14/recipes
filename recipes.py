@@ -1,21 +1,28 @@
 from typing import List
 import json
+from datetime import datetime
 
 class Runner:
 
     def __init__(self, db='recipe_data.json'):
-        # TODO: parse DB into memory
         self.groceries = []
         self.standard = ["milk","cereal","fruit","frozen"]
         self.recipes = self._get_recipes_into_memory(db)
+        self.db_path = db
 
     def _get_recipes_into_memory(self, db) -> List:
         with open(db) as json_file:
             return json.load(json_file).get("data")
     
+    def _update_recipes(self) -> None:
+        data = {"data":self.recipes}
+        with open(self.db_path, 'w') as json_file:
+            json.dump(data, json_file, indent=4)
+    
     def show_recipes(self) -> None:
         for recipe in self.recipes:
             print(f'{recipe.get("number")}: {recipe.get("name")}')
+            print(f'Most recent use: {recipe.get("most_recently_used")}')
             for ingredient in recipe.get("ingredients"):
                 print(f'{ingredient}')
             if recipe.get("extra_instructions"):
@@ -66,6 +73,12 @@ class Runner:
             for ingredient in recipe.get("ingredients"):
                 print(f'{ingredient}')
             print("")
+        
+        for s in self.groceries:
+            for t in self.recipes:
+                if s.get("number") == t.get("number"):
+                    t["most_recently_used"] = datetime.now().strftime("%Y-%m-%d")
+        self._update_recipes()
 
     def reset_list(self) -> None:
         self.groceries = []
