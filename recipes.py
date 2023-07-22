@@ -21,9 +21,10 @@ class Runner:
     
     def show_recipes(self) -> None:
         for recipe in self.recipes:
-            print(f'{recipe.get("number")}: {recipe.get("name")}')
             if recipe.get("most_recently_used"):
-                print(f'Most recent use: {recipe.get("most_recently_used")}')
+                print(f'{recipe.get("number")}: {recipe.get("name")} - {recipe.get("most_recently_used")}')
+            else:
+                print(f'{recipe.get("number")}: {recipe.get("name")}')
             for ingredient in recipe.get("ingredients"):
                 print(f'{ingredient}')
             if recipe.get("extra_instructions"):
