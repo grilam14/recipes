@@ -4,7 +4,7 @@ from datetime import datetime
 
 class Runner:
 
-    def __init__(self, db='recipe_data.json'):
+    def __init__(self, db='data.json'):
         self.groceries = []
         self.standard = ["milk","cereal","fruit","frozen"]
         self.recipes = self._get_recipes_into_memory(db)
