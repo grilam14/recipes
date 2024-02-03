@@ -23,7 +23,7 @@
                 "salsa"
             ],
             "extra_instructions": "",
-            "most_recently_used": "2023-08-12"
+            "most_recently_used": "2024-08-23"
         },
         {
             "number": "3",
@@ -40,7 +40,7 @@
                 "jasmine rice"
             ],
             "extra_instructions": "",
-            "most_recently_used": "2023-07-28"
+            "most_recently_used": "2024-06-28"
         },
         {
             "number": "4",
@@ -56,7 +56,8 @@
                 "Tomato basil wraps",
                 "Olive oil"
             ],
-            "extra_instructions": "Add deli turkey if desired"
+            "extra_instructions": "Add deli turkey if desired",
+            "most_recently_used": "2024-08-02"
         },
         {
             "number": "5",
@@ -101,7 +102,7 @@
                 "corn tortilla"
             ],
             "extra_instructions": "Roast diced potatoes at 450 for 30+ minutes",
-            "most_recently_used": "2023-08-04"
+            "most_recently_used": "2024-08-14"
         },
         {
             "number": "8",
@@ -133,7 +134,7 @@
                 "tortilla chips"
             ],
             "extra_instructions": "",
-            "most_recently_used": "2023-07-21"
+            "most_recently_used": "2024-08-30"
         },
         {
             "number": "10",
@@ -149,7 +150,8 @@
                 "Olive oil",
                 "Parmesan"
             ],
-            "extra_instructions": ""
+            "extra_instructions": "",
+            "most_recently_used": "2024-09-06"
         },
         {
             "number": "11",
@@ -174,10 +176,11 @@
                 "Jasmine rice",
                 "green chilis",
                 "lemon juice",
-                "naan bread"
+                "naan bread",
+                "Heavy cream"
             ],
             "extra_instructions": "",
-            "most_recently_used": "2023-08-12"
+            "most_recently_used": "2024-09-06"
         },
         {
             "number": "13",
@@ -190,7 +193,8 @@
                 "butter",
                 "basil"
             ],
-            "extra_instructions": ""
+            "extra_instructions": "",
+            "most_recently_used": "2023-12-15"
         },
         {
             "number": "14",
@@ -215,7 +219,8 @@
                 "bread",
                 "mayo"
             ],
-            "extra_instructions": ""
+            "extra_instructions": "",
+            "most_recently_used": "2023-12-15"
         },
         {
             "number": "16",
@@ -223,14 +228,14 @@
             "ingredients": [
                 "Spaghetti",
                 "tomato",
-                "beyond meat",
+                "meat",
                 "egg",
                 "parmesan",
                 "onion",
                 "breadcrumbs"
             ],
             "extra_instructions": "",
-            "most_recently_used": "2023-08-04"
+            "most_recently_used": "2024-08-14"
         },
         {
             "number": "17",
@@ -244,7 +249,7 @@
                 "andouille sausage"
             ],
             "extra_instructions": "",
-            "most_recently_used": "2023-07-21"
+            "most_recently_used": "2024-08-30"
         },
         {
             "number": "18",
@@ -260,7 +265,8 @@
                 "balsamic",
                 "oregano"
             ],
-            "extra_instructions": ""
+            "extra_instructions": "",
+            "most_recently_used": "2024-08-14"
         },
         {
             "number": "19",
@@ -275,7 +281,8 @@
                 "parmesan",
                 "ricotta"
             ],
-            "extra_instructions": ""
+            "extra_instructions": "",
+            "most_recently_used": "2024-08-23"
         },
         {
             "number": "20",
@@ -289,7 +296,7 @@
                 "cheese"
             ],
             "extra_instructions": "",
-            "most_recently_used": "2023-07-28"
+            "most_recently_used": "2024-02-23"
         },
         {
             "number": "21",
@@ -305,7 +312,23 @@
                 "mustard",
                 "kimchi"
             ],
-            "extra_instructions": ""
+            "extra_instructions": "",
+            "most_recently_used": "2024-05-09"
+        },
+        {
+            "number": "22",
+            "name": "Kimchi Rice",
+            "ingredients": [
+                "rice",
+                "kimchi",
+                "gochujang",
+                "gochugaru",
+                "sesame oil",
+                "green onion",
+                "seaweed"
+            ],
+            "extra_instructions": "",
+            "most_recently_used": "2024-06-21"
         }
     ]
 }

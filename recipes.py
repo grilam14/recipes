@@ -6,7 +6,7 @@ class Runner:
 
     def __init__(self, db='data.json'):
         self.groceries = []
-        self.standard = ["milk","cereal","fruit","frozen"]
+        self.standard = ["milk","cereal","frozen"]
         self.recipes = self._get_recipes_into_memory(db)
         self.db_path = db
 
@@ -38,6 +38,7 @@ class Runner:
             for recipe in self.recipes:
                 if number == recipe.get("number"):
                     self.groceries.append(recipe)
+                    print(f'{recipe.get("name")} added')
                     return
         except ValueError:
             pass
